@@ -74,6 +74,7 @@ Further information about compute applications can be found through link: https:
 
 ## Projects
 
+> Projects are grouped by technical direction.
 > Each entry links to externally maintained materials.
 
 *(Project tables follow below.)*
